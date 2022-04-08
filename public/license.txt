@@ -1,0 +1,11 @@
+Model Information:
+* title:	Circular Pad
+* source:	https://sketchfab.com/3d-models/circular-pad-8f5b4c48f316423bb5dee85a93b69f64
+* author:	torhaq (https://sketchfab.com/torhaq)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Circular Pad" (https://sketchfab.com/3d-models/circular-pad-8f5b4c48f316423bb5dee85a93b69f64) by torhaq (https://sketchfab.com/torhaq) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
