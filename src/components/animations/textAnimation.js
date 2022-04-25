@@ -61,10 +61,10 @@ export default function TextAnimation() {
 
 //joe
 const animation = keyframes`
-0% { opacity: 0; transform: translateY(-100px) skewY(10deg) skewX(10deg) rotateZ(30deg); filter:blur(1px); }
+0% { opacity: 0; transform: translateY(-200px) skewY(10deg) skewX(10deg) rotateZ(30deg); filter:blur(1px); }
 25% { opacity: 1; transform: translateY(0); }
 75% { opacity: 0; transform: translateY(); }
-100% { opacity 1; transform: translateY(-100px) skewY(10deg) skewX(10deg) rotateZ(30deg); }
+100% { opacity 1; transform: translateY(-200px) skewY(10deg) skewX(10deg) rotateZ(30deg); }
 `
 //iifjdslfasifsidjfjioaeiogjodijjoidasg
 const Name = styled.span`

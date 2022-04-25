@@ -12,11 +12,7 @@ export default function ShootingStars(){
             <em></em>
             <em></em>
             <em></em>
-            <em></em>
-            <em></em>
-            <em></em>
-            <em></em>
-            <em></em>
+          
         </aside>
 
     )
